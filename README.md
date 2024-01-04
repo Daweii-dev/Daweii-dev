@@ -1,8 +1,8 @@
 <h1 align="center">
-    <source src=https://readme-typing-svg.herokuapp.com/?font=ubuntu&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+%F0%9F%91%8B;+I%27m+Daweii+!; />
+    <img src=https://readme-typing-svg.herokuapp.com/?font=ubuntu&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+%F0%9F%91%8B;+I%27m+Daweii+!; />
 </h1>
 
-<img src=https://platane.github.io/snk/ />
+<source src=https://platane.github.io/snk/ />
 
 <h2 align="center">Learn :</h2>
 <div align="center">
